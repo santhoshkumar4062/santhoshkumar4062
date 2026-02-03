@@ -69,6 +69,8 @@ This Paper Aims to present a Technology-Based Notice Board using "COLLEGE TIME T
 - **Skilldzire Technology Pvt. Ltd.** - Data Science
 - **Skilldzire Technology Pvt. Ltd.** - Embedded Systems
 - **Skilldzire Technology Pvt. Ltd.** - Artificial Intelligence
+- **Verzeo E-Learning Platform** - Very Large Scale Integration (VLSI)
+- **Maven Silicon SemiConductor Manufacturing** - VLSI SoC design and verilog HDL
 - **Udemy** - PHP & MYSQL Course For Beginners
 - **Udemy** - HTML, CSS & JavaScript Course For Beginners
 - **Internshala Training** - Programming with Python | Internship & Job Preparation | Skill India | N.S.D.C
