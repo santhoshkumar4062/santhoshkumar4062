@@ -69,6 +69,7 @@ This Paper Aims to present a Technology-Based Notice Board using "COLLEGE TIME T
 - **Skilldzire Technology Pvt. Ltd.** - Data Science
 - **Skilldzire Technology Pvt. Ltd.** - Embedded Systems
 - **Skilldzire Technology Pvt. Ltd.** - Artificial Intelligence
+- **Skilldzire Technology Pvt. Ltd.** - Very Large Scale Integration (VLSI)
 - **Verzeo E-Learning Platform** - Very Large Scale Integration (VLSI)
 - **Maven Silicon SemiConductor Manufacturing** - VLSI SoC design and verilog HDL
 - **Udemy** - PHP & MYSQL Course For Beginners
